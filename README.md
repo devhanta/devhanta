@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi! Im hanta 👋
-
 <a href="https://vk.com/ТУТ_ТВОЙ_ID" target="_blank">
   <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
 </a>
@@ -10,10 +8,6 @@
 </a>
 
 <br><br>
-
-<h3>Мой стек технологий</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,ts,react,redux,nodejs,postgres,git,github,vscode,visualstudio,pycharm&perline=7)](https://skillicons.dev)
 
 <br>
 
